@@ -10,7 +10,7 @@ func TestAdder(t *testing.T) {
 	expected := 4
 
 	if sum != expected {
-		t.Errorf("yo oh noooooo  %d      but %d", expected, sum)
+		t.Errorf("yo oh noooooo sdfsdf %d      but %d", expected, sum)
 	}
 }
 
